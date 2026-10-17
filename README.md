@@ -22,7 +22,7 @@ This screenshot shows the command used during the investigation with the output.
 
 ## Findings
 
-The command was used to inspect the beginning of the available `dmesg` file. The output must be reviewed to determine whether it contains evidence identifying the targeted operating system version.
+After investigating the dmesg file, I successfully identified the version of the target operating system from the information contained in the log output.
 
 ## Conclusion
 

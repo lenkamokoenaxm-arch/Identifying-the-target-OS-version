@@ -16,7 +16,7 @@ head dmesg
 
 **Screenshot 1: Command Execution & Output**
 
-This screenshot shows the command used during the investigation.
+This screenshot shows the command used during the investigation with the output.
 
 ![Command Execution & OUtput](https://github.com/lenkamokoenaxm-arch/Identifying-the-target-OS-version/blob/1656c5d67863b10fbbaf20b06f0f38d1e8c3b6b9/Screenshots/OS%20%20Version-Target%20(and%20the%20command).png)
 
